@@ -38,10 +38,10 @@ library(MuMIn)
 library(trend)
 
 ## 1.2 Set folders ####
-root_figs <- "./Figures/Revised_20231019/"
+root_figs <- "./Figures/"
 
 ## 1.3 Load Data ####
-dat <- read.csv("./DataProcessed/LFS_Indices_oldnames.csv",
+dat <- read.csv("./Data/LFS_Indices.csv",
                 header = TRUE,
                 stringsAsFactors = FALSE)
 
