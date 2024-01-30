@@ -2,7 +2,7 @@
   {
     "name": "Longfin Smelt Meta Analysis PVA",
     "organization": "U.S. Fish & Wildlife Service",
-    "description": "Code to support the paper "Informing Extinction Risk: Summarizing Population Viability through a Meta-analysis of Multiple Long-term Monitoring Programs for a Declining Estuarine Fish Species" (Tobias et al. 2023; Biological Conservation)",
+    "description": "Code to support the paper Informing Extinction Risk: Summarizing Population Viability through a Meta-analysis of Multiple Long-term Monitoring Programs for a Declining Estuarine Fish Species Tobias et al. 2023; Biological Conservation",
     "version": "1.0",
     "status": "release",
 
