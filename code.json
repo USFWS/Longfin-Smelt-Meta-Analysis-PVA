@@ -1,1 +1,48 @@
+[
+  {
+    "name": "Longfin Smelt Meta Analysis PVA",
+    "organization": "U.S. Fish & Wildlife Service",
+    "description": "Code to support the paper "Informing Extinction Risk: Summarizing Population Viability through a Meta-analysis of Multiple Long-term Monitoring Programs for a Declining Estuarine Fish Species" (Tobias et al. 2023; Biological Conservation)",
+    "version": "1.0",
+    "status": "release",
 
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "GPL 3.0",
+          "URL": "https://github.com/USFWS/Longfin-Smelt-Growth-Mode/blob/main/LICENSE.md"
+        }
+      ]
+    },
+
+    "homepageURL": "https://github.com/USFWS/Longfin-Smelt-Meta-Analysis-PVA",
+    "downloadURL": "https://github.com/USFWS/Longfin-Smelt-Meta-Analysis-PVA/archive/refs/heads/main.zip",
+    "disclaimerURL": "https://github.com/USFWS/Longfin-Smelt-Meta-Analysis-PVA/blob/main/DISCLAIMER.md",
+    "repositoryURL": "https://github.com/USFWS/Longfin-Smelt-Meta-Analysis-PVA.git",
+    "vcs": "git",
+
+    "laborHours": 2,
+
+    "tags": [
+      "r8",
+      "usfws"
+    ],
+
+    "languages": [
+	  "r",
+      "json",
+      "md",
+      "html"
+    ],
+
+    "contact": {
+      "name": "Vanessa Tobias",
+      "email": "vanessa_tobias@fws.gov"
+    },
+
+    "date": {
+      "metadataLastUpdated": "2024-01-30"
+    }
+  }
+]
